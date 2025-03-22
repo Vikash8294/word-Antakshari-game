@@ -84,7 +84,8 @@ Word Antakshari is an interactive web game based on the traditional game concept
 - Additional: CORS for cross-origin requests
 
 ## Screenshots
-C:\Users\HP\Desktop\Word Antakshari (2)\Word Antakshari\Word Antakshari\screenshots\Screenshot 2025-03-22 185758.png
-C:\Users\HP\Desktop\Word Antakshari (2)\Word Antakshari\Word Antakshari\screenshots\Screenshot 2025-03-22 185814.png
+
+![WhatsApp Image 2025-03-22 at 19 14 16_bb8711fa](https://github.com/user-attachments/assets/104c191d-2b4a-4b72-8656-dc36376d8c38)
+![WhatsApp Image 2025-03-22 at 19 14 16_17545866](https://github.com/user-attachments/assets/6ec33841-a268-48d7-88c6-0156a300e7d0)
 
 ---
